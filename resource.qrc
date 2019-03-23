@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>img/gameover.jpg</file>
+    </qresource>
+    <qresource prefix="/wav">
+        <file>wav/Mortal_Kombat.wav</file>
+        <file>wav/Destroy_Block.wav</file>
+        <file>wav/haha.wav</file>
+        <file>wav/Platform_collision.wav</file>
+        <file>wav/Wall_collision.wav</file>
+    </qresource>
+</RCC>
