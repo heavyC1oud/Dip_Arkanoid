@@ -1,5 +1,5 @@
 # Dip_Arkanoid
-Arkanoid game for ITMO university Saint Petersburg C++/QT courses.
+Arkanoid game for ITMO St. Petersburg University C++/QT courses.
 Controls: A - move platform left,
           D - move platform right
           
